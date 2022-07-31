@@ -1,7 +1,7 @@
 ### Installation
 - clone the repository:
 ```
-git clone https://github.com/Kamrul-Haque/multi-auth.git
+git clone https://github.com/Kamrul-Haque/iqra.git
 ```
 - install PHP dependencies via [composer](https://getcomposer.org/):
 ```
